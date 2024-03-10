@@ -1,0 +1,83 @@
+
+.details{
+    margin: 250px 0px ;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    width: 80%;
+    background-color: rgb(243, 243, 243);
+    /* border: black 2px solid; */
+    padding: 100px 10px 100px 10px ;
+    max-width: 960px;
+    
+}
+.details img{
+    width: 40%;
+    max-width: 520px;
+    border:rgb(255, 207, 213) solid 1px ;
+    box-shadow: 0px 0px 2px  rgb(250, 172, 198);
+    background-color: white;
+}
+.details > div{
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    font-size: x-large;
+    font-weight: 400;
+}
+#details{
+    display: flex;
+    justify-content: center;
+}
+.buttonAdd{
+    margin-top: 20px;
+    background-color: grey;
+    border-radius: 0px;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 20px 0px 20px 0px;
+    font-size: large;
+}
+.buyIt{
+    background-color:rgb(255, 207, 213) ;
+}
+
+#des{
+    font-size: xx-large;
+    font-weight: 600;
+}
+.size{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    padding: 20px 0px 0px 0px ;
+
+}
+.size button{
+    width: 35px;
+    height: 35px;
+    border: none;
+    /* background-color: white; */
+    /* border: solid black 1px; */
+    border-radius: 3px;
+}
+.size button:hover{
+    
+    border-color:rgb(255, 207, 213) ;
+    box-shadow: 0px 0px 10px  rgb(250, 172, 198);
+}
+
+.buttonSize{
+    background-color: rgb(131, 131, 131);
+}
+.colorSize{
+    background-color: white;
+}
+.err{
+    color: red;
+    font-size: medium;
+}
+
+

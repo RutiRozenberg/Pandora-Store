@@ -1,0 +1,204 @@
+[
+    {
+        "id":"b1",
+        "price":100,
+        "des":"Classic hard bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b1.png"
+    },
+    {
+        "id":"b2",
+        "price":200,
+        "des":"Swarovski stone bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b2.png"
+    }, {
+        "id":"b3",
+        "price":100,
+        "des":"Hard bracelet with anumals",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b3.png"
+    }, {
+        "id":"b4",
+        "price":150,
+        "des":"Link bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b4.png"
+    }, {
+        "id":"b5",
+        "price":130,
+        "des":"Loop bracelet wuth a heart studded with zircon stones",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b5.png"
+    }, {
+        "id":"b6",
+        "price":300,
+        "des":"Flat bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b6.png"
+    }, {
+        "id":"b7",
+        "price":305,
+        "des":" bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b7.png"
+    }, {
+        "id":"b8",
+        "price":220,
+        "des":"Star bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b8.png"
+    }, {
+        "id":"b9",
+        "price":195,
+        "des":"Heart closure bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b9.png"
+    }, {
+        "id":"b10",
+        "price":145,
+        "des":"Heart closure bracelet with insert",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b10.png"
+    }, {
+        "id":"b11",
+        "price":170,
+        "des":"Heart closure bracelet with interesting pendants",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b11.jpg"
+    },{
+        "id":"b12",
+        "price":310,
+        "des":"Bead bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b12.png"
+    },{
+        "id":"b13",
+        "price":295,
+        "des":"Gold heart bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b13.png"
+    },{
+        "id":"b14",
+        "price":105,
+        "des":"Two circle ckosure bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b14.png"
+    },{
+        "id":"b15",
+        "price":280,
+        "des":"Heart closure bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b15.png"
+    },{
+        "id":"b16",
+        "price":130,
+        "des":"Butterfly closure bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b16.png"
+    },{
+        "id":"b17",
+        "price":255,
+        "des":"Interesting closure bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b17.png"
+    },{
+        "id":"b18",
+        "price":220,
+        "des":"Link bracelet with diamonds",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b18.png"
+    },{
+        "id":"b19",
+        "price":100,
+        "des":"Circle bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b19.png"
+    },{
+        "id":"b20",
+        "price":143,
+        "des":"lnlaid bead bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b20.png"
+    },{
+        "id":"b21",
+        "price":260,
+        "des":"Hard bracelet with a circle extension",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b21.png"
+    },{
+        "id":"b22",
+        "price":180,
+        "des":"Mickey Mouse clesp bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b22.png"
+    },{
+        "id":"b23",
+        "price":200,
+        "des":"Hard bracelet with beads",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b23.png"
+    },{
+        "id":"b24",
+        "price":300,
+        "des":"Oval closure hard bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b24.png"
+    },{
+        "id":"b25",
+        "price":290,
+        "des":"Smile hard bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b25.png"
+    },{
+        "id":"b26",
+        "price":230,
+        "des":"Pandora hard bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b26.png"
+    },{
+        "id":"b27",
+        "price":165,
+        "des":"Link bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b27.png"
+    },{
+        "id":"b128",
+        "price":310,
+        "des":"Pandora closure bracelet",
+        "size": ["S","M","L"],
+        "type":"bracelet",
+        "img":"/assest/pictures/bracelet/b28.png"
+    }
+
+
+
+   
+]

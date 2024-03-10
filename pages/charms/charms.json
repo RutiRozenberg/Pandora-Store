@@ -1,0 +1,257 @@
+[
+    {
+        "id":"charms1",
+        "price":50,
+        "des":"A dall charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms1.png"
+    },
+    {
+        "id":"charms2",
+        "price":20,
+        "des":"Royal crown charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms2.png"
+    },{
+        "id":"charms3",
+        "price":35,
+        "des":"Moon and star necklace charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms3.jpg"
+    },{
+        "id":"charms4",
+        "price":42,
+        "des":"A ball with a pink heart combined with Swarovski stones charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms4.jpg"
+    },{
+        "id":"charms5",
+        "price":75,
+        "des":"Charm integrated heart examination",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms5.png"
+    },{
+        "id":"charms6",
+        "price":52,
+        "des":"Always together circle pendant charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms6.png"
+    },{
+        "id":"charms7",
+        "price":54,
+        "des":"Family combined heart pendant charm with spotlight stones",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms7.png"
+    }
+    ,{
+        "id":"charms8",
+        "price":90,
+        "des":"Ball charm with mesh and diamonds",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms8.png"
+    },{
+        "id":"charms9",
+        "price":12,
+        "des":"Charm connected love hearts",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms9.png"
+    },{
+        "id":"charms10",
+        "price":45,
+        "des":"Rhodium heart charm combined with Swarovski stones",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms10.png"
+    },{
+        "id":"charms11",
+        "price":78,
+        "des":"A heart pendant charm within a heart",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms11.png"
+    },{
+        "id":"charms12",
+        "price":56,
+        "des":"Charm a wave ball and a spotlight",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms12.png"
+    },{
+        "id":"charms13",
+        "price":23,
+        "des":"A charm combined with spotlights",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms13.png"
+    },{
+        "id":"charms14",
+        "price":45,
+        "des":"heart and spotlight charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms14.png"
+    },{
+        "id":"charms15",
+        "price":25,
+        "des":"Forever loving pendant charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms15.png"
+    },{
+        "id":"charms16",
+        "price":36,
+        "des":"Dreamy balloon pendant charm - pink",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms16.png"
+    },{
+        "id":"charms17",
+        "price":47,
+        "des":"Charmed bound hearts",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms17.png"
+    },{
+        "id":"charms18",
+        "price":56,
+        "des":"Charmed ball combined with hearts",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms18.png"
+    },{
+        "id":"charms19",
+        "price":58,
+        "des":"A fashionable bag charm from Pandora",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms19.jpg"
+    },{
+        "id":"charms20",
+        "price":48,
+        "des":"Necklace pendant combined with blue stones",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms20.png"
+    },{
+        "id":"charms21",
+        "price":62,
+        "des":"Silver cylinder charm with pink stones",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms21.png"
+    },{
+        "id":"charms22",
+        "price":56,
+        "des":"Brand necklace pendant charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms22.png"
+    },{
+        "id":"charms23",
+        "price":45,
+        "des":"Animal charm is presented",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms23.jpg"
+    },{
+        "id":"charms24",
+        "price":36,
+        "des":"Blue liner charm with anchor",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms24.png"
+    },{
+        "id":"charms25",
+        "price":20,
+        "des":"Charm necklace pendant like and v",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms25.png"
+    },{
+        "id":"charms26",
+        "price":30,
+        "des":"Letter M charm combined with hearts",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms26.png"
+    },{
+        "id":"charms127",
+        "price":40,
+        "des":"Shiny letter R charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms27.png"
+    },{
+        "id":"charms28",
+        "price":80,
+        "des":"Charm letter E pink heart",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms28.png"
+    },{
+        "id":"charms29",
+        "price":50,
+        "des":"Charm luxury travel bag",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms29.png"
+    },{
+        "id":"charms30",
+        "price":40,
+        "des":"Silver blue balloon pendant charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms30.png"
+    },{
+        "id":"charms31",
+        "price":56,
+        "des":"Silver heart charm with engraving",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms31.png"
+    },{
+        "id":"charms32",
+        "price":47,
+        "des":"Silver heart charm with Swarovski stones frame",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms32.png"
+    },{
+        "id":"charms33",
+        "price":44,
+        "des":"Crown charm, hearts and brand engraving",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms33.png"
+    },{
+        "id":"charms34",
+        "price":55,
+        "des":"A special heart pendant charm with a frill",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms34.png"
+    },{
+        "id":"charms35",
+        "price":63,
+        "des":"Heartwarming and locked",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms35.png"
+    },{
+        "id":"charms36",
+        "price":52,
+        "des":"Charmed with Swarovski stones and a spotlight",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms36.png"
+    },{
+        "id":"charms37",
+        "price":20,
+        "des":"A couple of swans heart charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms37.png"
+    },{
+        "id":"charms38",
+        "price":46,
+        "des":"Charm pendant colors and brush",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms38.png"
+    },{
+        "id":"charms39",
+        "price":25,
+        "des":"Retro car charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms39.png"
+    },{
+        "id":"charms40",
+        "price":41,
+        "des":"Hearts are always friends link charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms40.png"
+    },{
+        "id":"charms41",
+        "price":20,
+        "des":"Sport pendant charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms41.png"
+    },{
+        "id":"charms42",
+        "price":35,
+        "des":"Skateboard pendant charm",
+        "type":"charms",
+        "img":"/assest/pictures/charms/charms42.jpg"
+    }
+]

@@ -1,0 +1,46 @@
+
+[
+    {
+        "title": "South",
+        "list":[ 
+        {"city":"Ashkelon","place":["Giron Mall"]},
+        {"city":"Eilat facing the sea","place":["Mall in front of the sea"]},
+        {"city":"Ashdod","place":["Big Fashion Ashdod"]},
+        {"city":"Ramla","place":["Azrieli Mall Ramla"]},
+        {"city":"Beer Sheva","place":["Grand Mall"]},
+        {"city":"Rehovot","place":["Rehovot Mall"]}
+        ]
+    },
+    {
+        "title": "Jerusalem",
+        "list":[ 
+        {"city":"Jerusalem","place":["Alrov Avenue anyway","Azrieli Malcha Mall"]},
+        {"city":"Modi'in","place":["Azrieli Modiin Mall"]}  
+        ]
+    },
+    {
+        "title": "Central",
+        "list":[
+        {"city":"Hadera","place":["A mall in front of the Wilgi beach"]},
+        {"city":"Rishon Lezion","place":["Rishonim Mall"]},
+        {"city":"Holon","place":["Holon Mall"]},
+        {"city":"Ramat Gan","place":["Ayalon Mall"]},
+        {"city":"Petah Tikva","place":["Avnet Petach Tikva Grand Mall"]},
+        {"city":"Raanana","place":["Rananim Mall"]},
+        {"city":"Netanya","place":["Sea city Mall"]},
+        {"city":"Tel Aviv","place":["Azrieli Tel Aviv","Dizingroff Square"]}    
+        ]
+    },
+    {
+        "title": "north",
+        "list":[
+        {"city":"Carmiel","place":["Big Carmiel"]},
+        {"city":"Nazareth","place":["Big Fashion Nazareth"]},
+        {"city":"Tiberias","place":["BIG FASHION DANUKOF"]},
+        {"city":"Kiryut","place":["The Kiron Mall"]},
+        {"city":"Haifa","place":["Grand Mall Haifa"]},
+        {"city":"Kiryat Ono","place":["Kiryat Ono Mall"]}
+            
+        ]
+    }
+]

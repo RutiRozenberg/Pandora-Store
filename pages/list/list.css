@@ -1,0 +1,29 @@
+.pageL{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.allLists{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.divA{
+    background-color: rgb(228, 228, 228) ;
+    padding: 30px ;
+    margin: 20px;
+}
+.divA h1{
+    font-size: x-large;
+    font-weight: 700;
+}
+.city{
+    color: rgb(252, 162, 192);
+}
+#titlePage{
+    font-weight: 900;
+    margin-bottom: 60px;
+}

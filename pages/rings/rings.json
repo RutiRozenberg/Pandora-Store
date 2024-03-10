@@ -1,0 +1,376 @@
+
+
+[
+    {
+        "id": "r2",
+        "price": 70,
+        "des": "A ring combined with spotlight stones",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img":"/assest/pictures/rings/r2.png"
+    },
+
+    {
+        "id": "r3",
+        "price": 60,
+        "des": "A ring with a combination of stones",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r3.png"
+    },
+
+    {
+        "id": "r4",
+        "price": 75,
+        "des": "Amazing diamond ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r4.png"
+    },
+
+    {
+        "id": "r5",
+        "price": 65,
+        "des": "star spotlight ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r5.png"
+    },
+    {
+        "id": "r6",
+        "price": 80,
+        "des": "Silver ring with stones",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r6.png"
+    },
+    {
+        "id": "r7",
+        "price": 90,
+        "des": "Mickey Mouse ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r7.png"
+    },
+    {
+        "id": "r8",
+        "price": 95,
+        "des": "heart ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r8.jpg"
+    },
+    {
+        "id": "r9",
+        "price": 100,
+        "des": "rose ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r9.png"
+    },
+    {
+        "id": "r10",
+        "price": 110,
+        "des": "A ring with a ruby stone",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r10.jpg"
+    },
+    {
+        "id": "r11",
+        "price": 60,
+        "des": "Original Pandora ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r11.jpg"
+    },
+    {
+        "id": "r12",
+        "price": 90,
+        "des": "silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r12.png"
+    },
+    {
+        "id": "r13",
+        "price": 50,
+        "des": "An interesting ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r13.png"
+    },
+    {
+        "id": "r14",
+        "price": 30,
+        "des": "  A thin silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r14.png"
+    },
+    {
+        "id": "r15",
+        "price": 130,
+        "des": "  Link silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r15.png"
+    },
+    {
+        "id": "r16",
+        "price": 85,
+        "des": "Stone silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r16.png"
+    },
+
+    {
+        "id": "r17",
+        "price": 74,
+        "des": "Pandora ring with stone combination",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img":"/assest/pictures/rings/r17.png"
+    },
+
+
+    {
+        "id": "r19",
+        "price": 66,
+        "des": "rotating ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r19.png"
+    },
+
+    {
+        "id": "r20",
+        "price": 98,
+        "des": "Circle silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r20.png"
+    },
+    {
+        "id": "r21",
+        "price": 45,
+        "des": "A ring with a special closure",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r21.png"
+    },
+    {
+        "id": "r22",
+        "price": 70,
+        "des": "Crown silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r22.png"
+    },
+    {
+        "id": "r23",
+        "price": 76,
+        "des": "A thin and beautiful silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r23.png"
+    },
+    {
+        "id": "r24",
+        "price": 55,
+        "des": "Rough dark silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r24.png"
+    },
+    {
+        "id": "r25",
+        "price": 80,
+        "des": "Spotlight silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r25.png"
+    },
+    {
+        "id": "r26",
+        "price": 82,
+        "des": "A drop silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r26.png"
+    },
+    {
+        "id": "r27",
+        "price": 60,
+        "des": "A shining wish silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r27.png"
+    },
+    {
+        "id": "r28",
+        "price": 70,
+        "des": "Original Pandora ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r28.jpg"
+    },
+    {
+        "id": "r29",
+        "price": 80,
+        "des": "Original Pandora ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r29.png"
+    },
+    {
+        "id": "r30",
+        "price": 90,
+        "des": "heart holder ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r30.png"
+    },
+    {
+        "id": "r31",
+        "price": 58,
+        "des": "Pandora crown ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r31.png"
+    },
+   
+
+    {
+        "id": "r32",
+        "price": 75,
+        "des": "Round silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r32.png"
+    },
+    {
+        "id": "r33",
+        "price": 25,
+        "des": "Wedding ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r33.png"
+    },
+    {
+        "id": "r34",
+        "price": 45,
+        "des": "rose wish ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r34.png"
+    },
+    {
+        "id": "r35",
+        "price": 40,
+        "des": "crown wish ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r35.png"
+    },
+    {
+        "id": "r36",
+        "price": 30,
+        "des": "Open silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r36.png"
+    },
+    {
+        "id": "r37",
+        "price": 35,
+        "des": "Diamond ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r37.png"
+    },
+    {
+        "id": "r38",
+        "price": 60,
+        "des": "Link ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r38.png"
+    },
+   
+    {
+        "id": "r40",
+        "price": 65,
+        "des": "Flat silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r40.png"
+    },
+    {
+        "id": "r41",
+        "price": 120,
+        "des": "Double silver ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r41.png"
+    },
+
+
+    {
+        "id": "r42",
+        "price": 35,
+        "des": "A thick wish ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r42.png"
+    },
+    {
+        "id": "r43",
+        "price": 45,
+        "des": "heart wish ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r43.png"
+    },
+    {
+        "id": "r44",
+        "price": 70,
+        "des": "Link diamond ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r44.png"
+    },
+    {
+        "id": "r45",
+        "price": 65,
+        "des": "Double wish ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r45.jpg"
+    },
+    {
+        "id": "r46",
+        "price": 45,
+        "des": "Silver ring with ribbon",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r46.jpg"
+    },
+    {
+        "id": "r47",
+        "price": 80,
+        "des": "Large original Pandora ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r47.png"
+    },
+    {
+        "id": "r48",
+        "price": 100,
+        "des": "Sterling women's ring",
+        "size": ["S","M","L"],
+        "type": "ring",
+        "img": "/assest/pictures/rings/r48.png"
+    }
+]

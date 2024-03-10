@@ -1,0 +1,327 @@
+
+
+[
+    {
+        "id": "chains1",
+        "price": 100,
+        "des": "A stunning silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains1.png"
+    },
+
+    {
+        "id": "chains2",
+        "price": 80,
+        "des": "A thin simple necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains2.png"
+    },{
+        "id": "chains3",
+        "price": 90,
+        "des": "Heart silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains3.png"
+    },{
+        "id": "chains4",
+        "price": 50,
+        "des": "An interesting thin necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains4.png"
+    },{
+        "id": "chains5",
+        "price": 100,
+        "des": "Pandora heart necklace combined with pink stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains5.png"
+    },{
+        "id": "chains6",
+        "price": 70,
+        "des": "A gold necklace studded with stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains6.png"
+    },{
+        "id": "chains7",
+        "price": 120,
+        "des": "A twisted gold necklace with a combination of stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains7.png"
+    },{
+        "id": "chains8",
+        "price": 115,
+        "des": "Silver necklace with gold pandora pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains8.png"
+    },{
+        "id": "chains9",
+        "price": 85,
+        "des": "Red gold necklace, with Pandora ball pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains9.png"
+    },{
+        "id": "chains10",
+        "price": 95,
+        "des": "Silver necklace with gold heart pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains10.png"
+    },
+    {
+        "id": "chains11",
+        "price": 70,
+        "des": "Red gold necklace with silver pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains11.png"
+    },
+
+    {
+        "id": "chains12",
+        "price": 100,
+        "des": "Gold necklace with a circle",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains12.png"
+    },{
+        "id": "chains13",
+        "price": 80,
+        "des": "Silver necklace with thallium patterned silver and gold",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains13.png"
+    },{
+        "id": "chains14",
+        "price": 78,
+        "des": "Circle pendant silver necklace, with lock closure",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains14.png"
+    },{
+        "id": "chains15",
+        "price": 98,
+        "des": "Silver necklace with pandora full circle",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains15.png"
+    },{
+        "id": "chains16",
+        "price": 76,
+        "des": "Silver necklace with a double heart",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains16.png"
+    },{
+        "id": "chains17",
+        "price": 54,
+        "des": "Silver necklace with a double heart",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains17.png"
+    },{
+        "id": "chains18",
+        "price": 105,
+        "des": "Silver necklace with round silver pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains18.png"
+    },{
+        "id": "chains19",
+        "price": 84,
+        "des": "Silver necklace with large links",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains19.png"
+    },{
+        "id": "chains20",
+        "price": 76,
+        "des": "Silver necklace circle within a circle",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains20.png"
+    } ,
+    {
+        "id": "chains21",
+        "price": 97,
+        "des": "Silver necklace circle within a circle",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains21.png"
+    },
+
+    {
+        "id": "chains22",
+        "price": 135,
+        "des": "Silver necklace with inner double circle pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains22.png"
+    },{
+        "id": "chains23",
+        "price": 112,
+        "des": "Silver necklace with flower pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains23.png"
+    },{
+        "id": "chains24",
+        "price": 65,
+        "des": "Silver necklace with flower pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains24.png"
+    },{
+        "id": "chains25",
+        "price": 78,
+        "des": "Silver necklace with heart connection",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains25.png"
+    },{
+        "id": "chains26",
+        "price": 94,
+        "des": "Heart silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains26.png"
+    },{
+        "id": "chains27",
+        "price": 84,
+        "des": "Integrated circle silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains27.png"
+    },{
+        "id": "chains28",
+        "price": 82,
+        "des": "Silver necklace with a square pendant combined with stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains28.png"
+    },{
+        "id": "chains29",
+        "price": 74,
+        "des": "Silver necklace with a heart connection",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains29.png"
+    },{
+        "id": "chains30",
+        "price": 81,
+        "des": "Silver necklace big silver heart",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains30.jpg"
+    },
+    {
+        "id": "chains31",
+        "price": 90,
+        "des": "Silver necklace with a hollow circle pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains31.png"
+    },
+
+    {
+        "id": "chains32",
+        "price": 95,
+        "des": "A sparkling circle silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains32.png"
+    },{
+        "id": "chains33",
+        "price": 60,
+        "des": "Silver necklace key pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains33.jpg"
+    },{
+        "id": "chains34",
+        "price": 80,
+        "des": "Link and circle pendant silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains34.png"
+    },{
+        "id": "chains35",
+        "price": 79,
+        "des": "Silver necklace with heart pendant inlaid with stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains35.png"
+    },{
+        "id": "chains36",
+        "price": 70,
+        "des": "Silver necklace with twisted pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains36.png"
+    },{
+        "id": "chains37",
+        "price": 67,
+        "des": "Silver necklace with a flower pendant inside a circle studded with stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains37.png"
+    },{
+        "id": "chains38",
+        "price": 74,
+        "des": "Silver necklace V heart",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains38.png"
+    },{
+        "id": "chains39",
+        "price": 87,
+        "des": "Silver necklace with a simple circle pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains39.png"
+    },{
+        "id": "chains40",
+        "price": 98,
+        "des": "Silver necklace with a circle pendant inlaid with silver-plated stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains40.png"
+    } ,
+    {
+        "id": "chains41",
+        "price": 68,
+        "des": "Silver necklace links",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains41.png"
+    },
+
+    {
+        "id": "chains42",
+        "price": 45,
+        "des": "Empty circle gold necklace with stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains42.png"
+    },{
+        "id": "chains43",
+        "price": 55,
+        "des": "Empty circle silver necklace with stones",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains43.png"
+    },{
+        "id": "chains44",
+        "price": 86,
+        "des": "A thin simple silver necklace",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains44.png"
+    },{
+        "id": "chains45",
+        "price": 98,
+        "des": "Silver necklace with heart pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains45.png"
+    },{
+        "id": "chains46",
+        "price": 130,
+        "des": "Silver necklace with gold pandora pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains46.png"
+    },{
+        "id": "chains47",
+        "price": 137,
+        "des": "Silver necklace with silver pandora pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains47.png"
+    },{
+        "id": "chains48",
+        "price": 100,
+        "des": "Silver necklace without pendant, with Pandora closure",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains48.jpg"
+    },{
+        "id": "chains49",
+        "price":99,
+        "des": "Silver necklace with a beautiful Pandora circle",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains49.jpg"
+    },{
+        "id": "chains50",
+        "price": 83,
+        "des": "Red gold necklace, with Pandora circle pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains50.png"
+    }
+
+    ,{
+        "id": "chains51",
+        "price": 70,
+        "des": "Silver necklace with silver key pendant",
+        "type": "necklace",   "size": ["S","M","L"],
+        "img":"/assest/pictures/chains/chains51.png"
+    }
+]

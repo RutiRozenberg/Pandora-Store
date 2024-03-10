@@ -1,0 +1,17 @@
+[
+   {
+    "id": "bracelet",
+    "img":"/assest/pictures/homepage/circles/bb.png"
+   },  
+   {
+    "id": "rings",
+    "img":"/assest/pictures/homepage/circles/rr.png"
+   },
+  {
+    "id": "necklace",
+    "img":"/assest/pictures/homepage/circles/chainsss.png"
+   },{
+    "id": "charms",
+    "img":"/assest/pictures/homepage/circles/charmsss.png"
+   }
+]

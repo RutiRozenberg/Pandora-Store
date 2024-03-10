@@ -1,0 +1,33 @@
+#homePage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.circles{
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    padding-bottom: 100px;
+}
+.circles > a{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    text-decoration: none;
+
+}
+.circles img{
+    width: 80%;
+}
+.circles div{
+    color: black;
+    font-weight: 800;
+  
+}
+.back{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}

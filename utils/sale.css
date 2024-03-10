@@ -1,0 +1,22 @@
+.greyBackGround{
+    background-color: grey;
+    opacity: .7;
+    position: fixed;
+    z-index: 40;
+    width: 100%;
+    height: 2000px;
+    top: 0px;
+    left: 0px;
+
+}
+.alertSale{
+    background-image: url("../assest/pictures/utils/2\ צאמרס\ לאורך.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 25%;
+    height: 1000px ;
+    position: fixed;
+    z-index: 50;
+    top: 200px;
+    left: 37.5%;
+}

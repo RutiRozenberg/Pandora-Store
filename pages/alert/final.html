@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body id="b">
+    <button id="login" onclick="display(id)">login</button>
+    <div id="mo" class="modal">
+        <div>Hello</div>
+        <div>
+            <input placeholder="name" type="text">
+            <button onclick="re()">nmnmnmn</button>
+        </div>
+    </div>
+</body>
+<style>
+    .modal{
+        position: fixed;
+        background-color: pink;
+        padding: 40px ;
+        border-radius: 10px ;
+        z-index: 10000;
+        width: 40%;
+        height: 200px;
+        box-sizing: border-box;
+        display: none;
+    }
+    .on{
+        display: flex;
+    }
+    .grey{
+        background-color: grey;
+        opacity: .8;
+        position: fixed;
+        top: 0px ;
+        width: 100%;
+        height: 1000px;
+        z-index: 10;
+        left: 0px;
+    }
+    .none{
+        display: none;
+    }
+</style>
+<script>
+     const body=document.getElementById('b');
+    function display(type){
+        const none=document.getElementById('mo');
+        console.log(none);
+        none.classList.remove('none');
+        const back=document.createElement('div');
+        back.classList="grey";
+        back.id="back";
+        body.appendChild(back);
+    }
+    function re(){
+        console.log(body);
+        const g=document.getElementById('back');
+        const d=document.getElementById('mo');
+        g.classList.add('none');
+        d.classList.add('none');
+        
+    }
+</script>
+</html>

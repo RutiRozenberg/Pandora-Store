@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="login" onclick="display(id)">login</button>
+    <button id="sign" onclick="display(id)">sign up</button>
+    <div class='modal' id='modal1'>Hello world</div>
+
+</body>
+<style>
+    .modal{
+        position :fixed;
+        top:10%;
+        padding: 40px 50px ;
+        border-radius: 8px;
+        background-color: white;
+        z-index: 60000;
+        width: 400px;
+        min-height: 100px;
+        display: none;
+        left: 50%;
+        margin-left: -200px;
+        max-width: 80%;
+        box-sizing: border-box;
+
+    }
+    .on{
+        display: block;
+    }
+    .modal-js-overlay {
+        display: none;
+        background: #444;
+        opacity: .8;
+       position: fixed;
+      top: 0px;
+      width: 100%;
+      height: 1000px;
+      z-index: 20000;
+      left: 0px;
+}
+
+</style>
+<script>
+    function display(type){
+        console.log(type);
+        const none=document.getElementById('modal1');
+        console.log(none);
+        none.classList+=" on";
+    }
+    function modal(id){
+        console.log(id);
+        let el = document.getElementById(id);  // can also use a query selector
+        let body = document.querySelector("body");
+        let bg = document.createElement("div");
+        bg.className = "modal-js-overlay";
+    
+        body.appendChild(bg);
+    }
+    function modaloff(id) {
+        let body = document.querySelector("body");
+        let el = document.querySelector(id);
+        let overlay = body.querySelector(".modal-js-overlay");
+
+        el.classList.remove('on');
+        body.removeChild(overlay);
+    }
+    
+
+
+
+</script>
+
+<script>
+	function showmodal()
+	{
+		modal('modal1'); // show
+		modaloff('modal1'); // hide
+	}
+    showmodal();
+</script>
+</html>
